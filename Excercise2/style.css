@@ -1,0 +1,16 @@
+body {
+  font-family: Verdana, sans-serif;
+  background-color: #f5f5dc; 
+  color: #8b0000;
+}
+
+img {
+  display: block;
+  width: min(100%, 520px);
+  height: auto;
+}
+
+h3 {
+  font-size: 1.5rem;
+  color: #b22222;
+}
